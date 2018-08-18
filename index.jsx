@@ -11,7 +11,3 @@ render(
     </ErrorBoundary>,
   app
 );
-// render(
-//   <HelloMessage name="Jane" />,
-//   app
-// );
