@@ -1,0 +1,17 @@
+.cell {
+  display: grid;
+  border: 1px solid black;
+  justify-content: center;
+  align-content: center
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
